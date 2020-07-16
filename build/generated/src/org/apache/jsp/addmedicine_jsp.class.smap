@@ -1,0 +1,43 @@
+SMAP
+addmedicine_jsp.java
+JSP
+*S JSP
+*F
++ 0 addmedicine.jsp
+addmedicine.jsp
++ 1 headerfiles.jsp
+headerfiles.jsp
++ 2 adminheader.jsp
+adminheader.jsp
++ 3 mycss.jsp
+mycss.jsp
++ 4 script.jsp
+script.jsp
++ 5 footer.jsp
+footer.jsp
+*L
+5,13:57
+1#1,31:70
+17#0,166:101
+183,3:268
+185,2:271
+1#2,3:273
+1#3:276
+2:277,2
+3,97:279
+100:376,2
+101,64:378
+3#2,67:442
+69,2:509
+70,16:511
+186#0,2:527
+188,2:530
+189,22:532
+211,37:555
+247,12:592
+262,19:604
+1#4,54:623
+280#0,2:677
+1#5,71:679
+281#0,5:750
+*E

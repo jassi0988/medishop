@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="2">
+        <file>
+            <url>web/delete/deletemedi.jsp</url>
+            <bookmark id="1">
+                <name/>
+                <line>39</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>web/demo.jsp</url>
+            <bookmark id="2">
+                <name/>
+                <line>57</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/davproject/web/footer.jsp</file>
+            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/davproject/web/ajax/feedback.jsp</file>
+            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/davproject/web/index.jsp</file>
+            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/davproject/web/userheader.jsp</file>
+            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/davproject/web/header.jsp</file>
+            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/davproject/web/aboutus.jsp</file>
+            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/davproject/web/contactus.jsp</file>
+            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/davproject/web/location.jsp</file>
+            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/davproject/web/adminheader.jsp</file>
+        </group>
+    </open-files>
+</project-private>
